@@ -2,7 +2,7 @@
 
 A persistent and flexible React Native component that allows you to wrap text around images, supporting floating layouts, circular shapes, and rich customization. It leverages `react-native-webview` for high-performance rendering of complex text flows.
 
-![Demo](demo/image.png)
+![Demo](https://raw.githubusercontent.com/modhamanish/react-native-text-wrap-around-image/refs/heads/main/demo/image.png)
 
 ## Features
 
