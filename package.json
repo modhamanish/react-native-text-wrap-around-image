@@ -1,6 +1,6 @@
 {
   "name": "@modhamanish/react-native-text-wrap-around-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native component for wrapping text around images with support for floating layouts, circular shapes, and custom styling using WebView.",
   "main": "index.js",
   "scripts": {
