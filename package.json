@@ -1,0 +1,44 @@
+{
+  "name": "@modhamanish/react-native-text-wrap-around-image",
+  "version": "1.0.3",
+  "description": "A React Native component for wrapping text around images with support for floating layouts, circular shapes, and custom styling using WebView.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modhamanish/react-native-text-wrap-around-image.git"
+  },
+  "keywords": [
+    "react-native",
+    "text-wrap",
+    "image-wrap",
+    "float-image",
+    "text-around-image",
+    "react-native-webview",
+    "layout",
+    "ui-component",
+    "wrap-text",
+    "rich-text",
+    "content-layout"
+  ],
+  "author": "Modha Manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modhamanish/react-native-text-wrap-around-image/issues"
+  },
+  "homepage": "https://github.com/modhamanish/react-native-text-wrap-around-image#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-webview": "*"
+  },
+  "devDependencies": {
+    "@types/react": "*",
+    "@types/react-native": "*",
+    "typescript": "*"
+  },
+  "type": "module"
+}

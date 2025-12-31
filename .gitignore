@@ -1,0 +1,34 @@
+# General
+node_modules/
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.lock
+!yarn.lock
+package-lock.json
+
+# Build output
+lib/
+dist/
+build/
+coverage/
+
+# React Native / Metro
+.metro/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+android/build
+android/app/build
+android/.gradle
+
+# iOS
+ios/build
+ios/Pods
+ios/*.xcworkspace
+!ios/*.xcodeproj
+xcuserdata
+yarn.lock
